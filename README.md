@@ -1,0 +1,1 @@
+Scaffold Groovy script to recreate the common issues faced during compilation
