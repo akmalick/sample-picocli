@@ -31,6 +31,7 @@ where
 @|bold Common commandline options available with this script:|@
 """,
         sortOptions = false
+        ,requiredOptionMarker = '*' //---->>>>> This DOES"T WORK
 
 )
 
